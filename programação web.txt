@@ -13,7 +13,7 @@
 		<h2 align="center"><font color="#990000">  Seja Bem vindo</h2>
 		<br />
 		<h3 align="center">
-		<img src="https://github.com/MateusBrito21/Programa-o-web.git"/>
+		<img src="https://i.pinimg.com/originals/87/00/7d/87007d2808a8b1cc1d1e2e924f724d5f.gif"/>
 		</h3>
 		<hr/>
 		<h5 align="center">Objetivos</h5>
@@ -27,12 +27,15 @@
 		<br />			
 		</h4>
 		<br />
-</p>
-<hr/>
-</ul>
-<p align="center"><front size="6">Acesse Também<a href="http://www.educatux.com.br/"
-target="_blank" title="Educatux">&lt;Educatux&gt; &copy;</a>
-</font></p>
+		</p>
+		<hr/>
+		</ul>
+		<p align="center"><front size="6">Acesse Também<a href="http://www.educatux.com.br/"
+		target="_blank" title="Educatux">&lt;Educatux&gt; &copy;</a>
+		</font></p>
+		<h2 align="center">
+			<font color="#990000"><em> Obrigado por acessar </em></font>
+		</h2>
 
 
 
